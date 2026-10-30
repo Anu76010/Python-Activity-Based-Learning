@@ -108,7 +108,7 @@ Enter quantity: 1
 Subtotal: Rs. 8000.0
 Total Discount: Rs. 800.0
 Final Bill Amount: Rs. 7200.0
-# Screenshort
+# Screenshot
 <img width="1172" height="506" alt="Screenshot 2026-10-30 105149" src="https://github.com/user-attachments/assets/2a9c72d5-54df-4d69-a48e-0722646419d9" />
 
 
