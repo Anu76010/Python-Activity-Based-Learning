@@ -87,3 +87,5 @@ Current Attendance: 60.0 %
 Status: Attendance below 75%.
 Additional classes to attend: 60
 # screenshot
+<img width="1235" height="138" alt="Screenshot 2026-10-30 104105" src="https://github.com/user-attachments/assets/18c26d30-3e39-45e9-87d5-bfc437d28933" />
+
