@@ -83,3 +83,5 @@ else:
   # Sample Output
     Password is Valid
    # screenshot
+   <img width="565" height="332" alt="Screenshot 2026-10-30 105553" src="https://github.com/user-attachments/assets/2ba7acc7-1313-451b-a6dc-d1b6a4702c53" />
+
